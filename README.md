@@ -14,6 +14,9 @@ https://ken-bains.github.io/updatedPortfolio
 - GitHub - hosts repository that can be deployed to GitHub Pages
 - Jquery - Javascript scripting language
 - Bootstrap - front-end framework used to create modern websites and web apps.
+## Site Picture
+
+![Site](img/siteExample.png)
 
 ## Code Snippet
 ```HTML
